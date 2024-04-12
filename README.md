@@ -16,22 +16,35 @@ An API focuses on software to software interaction.
 
 The main components of APIs are:
 -Endpoints: This is a path where API related functions can be accessed and it represents the APIs various functionalities.
+
 -Methods: HTTP functions such at GET PUT POST that define the actions that can be executed against the APIs endpoint.
+
 -Data formats: specific formats that allow both clients and servers to read and understand data exchanged (eg,JSON and XML)
+
+
 Types of APIs:
+
 -Web APIs are interfaces that operate over the internetand and facilitate interactions between system and the web servers hosting them.
+
 -RESTful APIs organise data into specific uniform resource identifiers(URIs)
+
 -Public APIs are available to users with minimal restrictions and can be freely accessed by anyone.
+
 -Private APIs are restricted and have limited access, these are often used internally within companies.
+
 -Operating system APIs provide a bridge for software applications to request and carry out basic operations within an operationg system.
+
 -Library and Framework APIs eliminate the need to write code for basic repetitive tasks as it provides predefined function to aid application development.
+
 -Database APIs enable communication between an application and a database allowing for data manipulation
+
 -Hardware APIs allow software to interact, control and retrieve data from hardware devices like from external components such as printers
 
 4. **Practical Application and Tools**: Reflect on your experience with API exploration and implementation. Have you used any specific tools (such as Curl or API exploration tools) or libraries to interact with APIs? 
 
-[Your answer goes here]
+I have downloaded curl on my PC and have been interacting with it on my terminal. The first time I interacted with curl I used cur https://icanhazdadjokes which returned a joke. I have explored Twilio.
 
 5. **Learning and Improvement**: Considering the key concepts and your practical experiences, identify one area related to APIs where you feel confident and one area where you see a need for improvement. What steps will you take to enhance your understanding and skills in the area you wish to improve?
+6. I feel confident with the GET HTTP method to retrieve information from websites such as spotify to my local computer. I need improvement with the POST function of an API as I have been trying to send an SMS to myself using Twilio but I do not recieve the message. I will make use of online resources such as YouTube to figure out why I am getting an error as well as ask my couch and peers if I can not find the solution after researching it myself.
 
 [Your answer goes here]
