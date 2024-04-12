@@ -4,8 +4,8 @@ Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will 
 
 1. **Understanding and Application**: Reflecting on the key concepts, can you explain in your own words what an API is and its significance in software development? Provide an example of how you have used or encountered an API in a project or a practical scenario.
 
-An Application Programming Interface (API) allows software applications to communicate with one another and communicates users requests in a way the server can understand.APIs aare significant in
-software development as it allows software to be used across different platforms without building the functionality from scartch, It protects parts of a system that should not be accesiable to a user by only expossing certain parts of the system and API's allow for data sharing.
+An Application Programming Interface (API) allows software applications to communicate with one another and communicates users requests in a way the server can understand.APIs are significant in
+software development as it allows software to be used across different platforms without building the functionality from scartch, It protects parts of a system that should not be accessible to a user by only expossing certain parts of the system and API's allow for data sharing.
 
 2. **Conceptual Distinctions**: How would you differentiate between an interface and an API? 
 
@@ -42,7 +42,7 @@ Types of APIs:
 
 4. **Practical Application and Tools**: Reflect on your experience with API exploration and implementation. Have you used any specific tools (such as Curl or API exploration tools) or libraries to interact with APIs? 
 
-I have downloaded curl on my PC and have been interacting with it on my terminal. The first time I interacted with curl I used curl https://icanhazdadjokes which returned a joke. I have explored Twilio.
+I have downloaded curl on my PC and have been interacting with it on my terminal. The first time I interacted with curl I used curl https://icanhazdadjokes which returned a joke. I have explored Twilio. I have used Restfox to use APIs from Twilio.
 
 5. **Learning and Improvement**: Considering the key concepts and your practical experiences, identify one area related to APIs where you feel confident and one area where you see a need for improvement. What steps will you take to enhance your understanding and skills in the area you wish to improve?
 
