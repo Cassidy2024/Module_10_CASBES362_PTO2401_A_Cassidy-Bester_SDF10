@@ -42,9 +42,9 @@ Types of APIs:
 
 4. **Practical Application and Tools**: Reflect on your experience with API exploration and implementation. Have you used any specific tools (such as Curl or API exploration tools) or libraries to interact with APIs? 
 
-I have downloaded curl on my PC and have been interacting with it on my terminal. The first time I interacted with curl I used cur https://icanhazdadjokes which returned a joke. I have explored Twilio.
+I have downloaded curl on my PC and have been interacting with it on my terminal. The first time I interacted with curl I used curl https://icanhazdadjokes which returned a joke. I have explored Twilio.
 
 5. **Learning and Improvement**: Considering the key concepts and your practical experiences, identify one area related to APIs where you feel confident and one area where you see a need for improvement. What steps will you take to enhance your understanding and skills in the area you wish to improve?
-6. I feel confident with the GET HTTP method to retrieve information from websites such as spotify to my local computer. I need improvement with the POST function of an API as I have been trying to send an SMS to myself using Twilio but I do not recieve the message. I will make use of online resources such as YouTube to figure out why I am getting an error as well as ask my couch and peers if I can not find the solution after researching it myself.
 
-[Your answer goes here]
+ I feel confident with the GET HTTP method to retrieve information from websites such as spotify to my local computer. I need improvement with the POST function of an API as I have been trying to send an SMS to myself using Twilio but I do not recieve the message. I will make use of online resources such as YouTube to figure out why I am getting an error as well as ask my couch and peers if I can not find the solution after researching it myself.
+
